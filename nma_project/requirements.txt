@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+requests
+jupyter
+nbconvert
+ipykernel
+statsmodels
