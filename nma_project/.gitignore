@@ -1,3 +1,6 @@
 .venv/
 data01_direction4priors.csv
 __pycache__/
+generate_slide*_components.py
+generate_slides.py
+slides/
